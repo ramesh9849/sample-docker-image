@@ -15,3 +15,4 @@ sh "export DOCKER_CONFIG=\"\$(dirname \"\$DOCKER_CONFIG\")\"; docker push jenkin
 }
 }
 }
+}
